@@ -110,7 +110,7 @@ python test.py
 
 
 # Acknowledgments
-The code borrows from [SEAN](https://github.com/ZPdesu/SEAN), [Unsup3d](https://github.com/elliottwu/unsup3d), [StyleGAN2](https://github.com/NVlabs/stylegan2) and [StyleGAN2-Pytorch](https://github.com/rosinality/stylegan2-pytorch). Thank you to [Jie Zhang](https://scholar.google.com.hk/citations?user=gBkYZeMAAAAJ) for all the help I received.
+The code borrows from [SEAN](https://github.com/ZPdesu/SEAN), [Unsup3d](https://github.com/elliottwu/unsup3d), [StyleGAN2](https://github.com/NVlabs/stylegan2) and [StyleGAN2-Pytorch](https://github.com/rosinality/stylegan2-pytorch). Jointly developed with [Prof. Shuang Song](ssong@ustb.edu.cn). Thank you to [Jie Zhang](https://scholar.google.com.hk/citations?user=gBkYZeMAAAAJ) for all the help I received. 
 
 # Citation
 If you use this code for your research, please cite the following work:
